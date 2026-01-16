@@ -1,4 +1,4 @@
-# OpenTofu VMware vSphere Module
+# devops-terraform-modules-vmware
 
 [![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA18?logo=opentofu&logoColor=black)](https://opentofu.org/)
 [![VMware](https://img.shields.io/badge/VMware_vSphere-607078?logo=vmware&logoColor=white)](https://www.vmware.com/products/vsphere.html)
